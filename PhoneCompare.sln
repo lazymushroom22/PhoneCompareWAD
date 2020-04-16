@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneCompare", "PhoneCompare\PhoneCompare.csproj", "{172F07D6-C4CA-4477-AE9E-6480800AD5FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{172F07D6-C4CA-4477-AE9E-6480800AD5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172F07D6-C4CA-4477-AE9E-6480800AD5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172F07D6-C4CA-4477-AE9E-6480800AD5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172F07D6-C4CA-4477-AE9E-6480800AD5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CB4F26D-26D8-4C94-B1BC-ECFC0471C5CF}
+	EndGlobalSection
+EndGlobal
